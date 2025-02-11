@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DevOps() {
-	echo "Hello DevOps $1"
+	echo "Hello DevOps $1 of $2"
 }
 
-DevOps "Students"
+DevOps "Students" "GIK"
